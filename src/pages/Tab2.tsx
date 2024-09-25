@@ -7,13 +7,13 @@ const Tab2: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Tab 2</IonTitle>
+          <IonTitle>Mi lista de la compra 2</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen>
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">Tab 2</IonTitle>
+            <IonTitle size="large">Mi lista de la compra</IonTitle>
           </IonToolbar>
         </IonHeader>
         <ExploreContainer name="Tab 2 page" />
